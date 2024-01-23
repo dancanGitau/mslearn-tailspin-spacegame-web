@@ -1,3 +1,3 @@
-pool: MyAgentPool
+pool: AzureTestPool
 steps:
 - bash: echo hello world
